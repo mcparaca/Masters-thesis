@@ -1,2 +1,2 @@
-# Repository of Tymoteusz Cieślik
+# Repository of Tymoteusz Cieślik.
 
